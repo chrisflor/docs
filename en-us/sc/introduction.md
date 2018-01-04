@@ -2,7 +2,7 @@
 
 ## What is a smart contract?
 
-A smart contract is a set of commitments that are defined in digital form, including the agreement on how contract participants shall fulfill these commitments. Blockchain technology gives us a decentralized, non-tampering, highly reliable system in which smart contracts are extremely useful. Smart contracts is one of the most important characteristics of blockchain technologies and the reason why blockchains can be called disruptive technology. It is increasing the efficiency of our social structure by each passing day.
+A smart contract is a set of commitments that are defined in digital form, including the agreement on how contract participants shall fulfill these commitments. Blockchain technology gives us a decentralized, non-tampering, highly reliable system in which smart contracts are extremely useful. Enabling Smart Contracts is one of the most important characteristics of blockchain technologies and are the reason why blockchains can be called disruptive technology. It is increasing the efficiency of our social structure by each passing day.
 
 ## What are the characteristics of NEO smart contracts?
 
@@ -14,7 +14,7 @@ NEO Smart Contract 2.0 achieves a scalable approach through a combination of hig
 
 ## Write smart contracts in any language
 
-From the language point of view, the difference between NEO Smart Contract 2.0 and Ethereum is more intuitive: unlike the original Solidity language in Ethereum, the NEO smart contract can be used directly by almost any high-level programming language. The first supported languages ​​are C#, VB.Net, F#, Java, and Kotlin. NEO provides compilers and plug-ins for these languages, which are used to compile high-level languages ​​into instruction sets supported by NEO virtual machines. The first compiler will be for MSIL (Microsoft intermediate language), so theoretically any .Net language and any language that can be translated into MSIL will be immediately supported.
+In terms of programming languages, the difference between NEO Smart Contract 2.0 and Ethereum is more intuitive: unlike the original Solidity language in Ethereum, the NEO smart contract can be used directly by almost any high-level programming language. The first supported languages ​​are C#, VB.Net, F#, Java, and Kotlin. NEO provides compilers and plug-ins for these languages, which are used to compile their code ​​into instruction sets supported by NEO virtual machines. The first compiler will be for MSIL (Microsoft intermediate language), so theoretically any .Net language and any language that can be translated into MSIL will be immediately supported.
 
 The languages that are currently supported are:
 
@@ -29,6 +29,6 @@ The languages that we plan to support include:
 
 - JavaScript
 
-With multiple-language support, more than 90% of developers can directly participate in the development of an NEO smart contract without the need to learn a new language. Existing business system code might even be directly ported to the blockchain. We envision that this will greatly increase the overall popularity of the future blockchain.
+With multiple-language support, more than 90% of developers can directly participate in the development of a NEO smart contract without the need to learn a new language. Existing business system code may even be directly ported to the blockchain. We envision that this will greatly increase the overall popularity of the future blockchain.
 
-Additionally, traditional smart contracts are difficult to debug and test given lack of tool supports and access to clear instructions. NEO, however, provides major support for debugging at the NEO virtual machine level, allowing you to develop NEO Smart Contract 2.0 both easier and faster. If you need TestNet GAS, feel free to ask openly and it will be provided for development purposes.
+Additionally, traditional smart contracts are difficult to debug and test given the lack of tool supports and access to clear instructions. NEO, however, provides major support for debugging at the NEO virtual machine level, allowing you to develop NEO Smart Contract 2.0 both easier and faster. If you need TestNet GAS, feel free to ask openly and it will be provided for development purposes.
